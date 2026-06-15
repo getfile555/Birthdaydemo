@@ -82,13 +82,13 @@ End the experience with a memorable surprise and celebration.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/birthday-surprise.git
+git clone https://github.com/karim2762/Birthdaydemo.git
 ```
 
 Navigate to the project:
 
 ```bash
-cd birthday-surprise
+cd Birthdaydemo
 ```
 
 Launch the website:
